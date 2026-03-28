@@ -1,19 +1,21 @@
 Quiz Management System (Python)
-1.Description
+
+
 A Python-based Quiz Management System designed to automate and simplify quiz creation and assessment. It provides separate roles for Admin and User, ensuring secure and structured quiz management.
 
-2.Features
+1.Features
 Admin can add, update, and delete questions
 User can attempt quizzes
 Multiple-choice question support
 
-3.Score calculation
+2.Score calculation
 File-based data storage
 Simple and user-friendly interface
 
 3.Tech Stack
 Python
 File Handling
+
 4.Project Structure
 questions.txt → Stores quiz questions
 main.py → Main program file
